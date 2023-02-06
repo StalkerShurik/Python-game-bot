@@ -1,0 +1,6 @@
+version: '3.7'
+
+services:
+  bot:
+    container_name: bot_game_
+    build: .

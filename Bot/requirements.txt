@@ -1,0 +1,4 @@
+aioschedule==0.5.2
+pymongo==4.3.3
+pyTelegramBotAPI==4.8.0
+aiohttp
